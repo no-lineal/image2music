@@ -1,2 +1,2 @@
 # image2music
-i want to write you a song, but i don't know about music
+quería escribirte una canción, pero no se nada sobre música 
